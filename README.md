@@ -1,9 +1,7 @@
 <h1 align="center">Hey there! I'm Apoorva 👋</h1>
 <h3 align="center">CSE Student | Java Developer |  Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Java Developer;Creative+Designer+🎨;Lifelong+Learner+🌱" />
-</p>
+
 
 ---
 
